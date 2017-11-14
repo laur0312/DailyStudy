@@ -6,7 +6,7 @@
 
 # 过拟合 & 欠拟合
 <div align=center>
-	<img width=100% height=100% src="Bias v.s. Variance.png"/>  
+	<img width=60% height=60% src="Bias v.s. Variance.png"/>  
 </div>
 Bias v.s. Variance 图中，横轴表示模型的复杂程度，纵轴表示Error。
 
