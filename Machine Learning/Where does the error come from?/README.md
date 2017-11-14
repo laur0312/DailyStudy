@@ -24,7 +24,7 @@ Bias v.s. Variance 图中，横轴表示模型的复杂程度，纵轴表示Erro
 
 # 使用Training Set
 <div align=center>
-	<img width=100% height=100% src="How to Use Training Set.png"/>  
+	<img width=60% height=60% src="How to Use Training Set.png"/>  
 </div>
 将训练集分成 *N* 份，针对每种情况下分别训练模型、计算误差，最终选取误平均误差最小的模型。
 
