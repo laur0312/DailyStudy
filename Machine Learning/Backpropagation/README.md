@@ -20,5 +20,5 @@
 - Summary  
 
 <div align=center>
-	<img width=80% height=80% src="Backpropagation – Summary.png"/>
+	<img width=60% height=60% src="Backpropagation – Summary.png"/>
 </div>
