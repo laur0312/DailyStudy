@@ -4,20 +4,19 @@
 <div align=center>
 	<img width=60% height=60% src="Semi-Supervised Generative Model Principle.png"/>  
 </div>
-
-	- Method
+	- Method  
 <div align=center>
 	<img width=60% height=60% src="Semi-Supervised Generative Model Step.png"/>  
 </div>
-同样需要对 C2 做 Step 2 处理。
+	同样需要对 C2 做 Step 2 处理。
 
 - Low-density Separation
 	- Self-training
 <div align=center>
 	<img width=60% height=60% src="Semi-Supervised Learning Self-training.png"/>  
-</div>
+</div>  
 	- Entropy-based Regularization  
-	为了避免简单粗暴地将 unlabelled data 划分为某一类，Entropy-based Regularization 被引入。
+    为了避免简单粗暴地将 unlabelled data 划分为某一类，Entropy-based Regularization 被引入。
 	
 <div align=center>
 	<img width=60% height=60% src="Entropy-Based Regularization.png"/>  
@@ -33,12 +32,14 @@
 - Smoothness Assumption
 <div align=center>
 	<img width=60% height=60% src="Smoothness Assumption.png"/>  
-</div>
+</div>  
+
 	- Cluster And Then Label  
 	先分类，然后统计某一分类中哪个种类的 labelled data 多，那么属于该分类的 unlabelled data 也属于该种类。
 <div align=center>
 	<img width=60% height=60% src="Cluster And Then Label.png"/>  
 </div>
+
 	- Graph Construction
 		- The labelled data influence their
 neighbors
