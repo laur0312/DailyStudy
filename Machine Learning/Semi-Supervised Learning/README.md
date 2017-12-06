@@ -3,7 +3,8 @@
 	- Principle  
 	<p align="center">
 		<img align="center" width=60% height=60% src="Semi-Supervised Generative Model Principle.png"/>
-	</p>  
+	</p>
+
 	- Method  
 <p align="center">
 	<img width=60% height=60% src="Semi-Supervised Generative Model Step.png"/>
