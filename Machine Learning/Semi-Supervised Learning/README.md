@@ -4,7 +4,8 @@
 	<img width=60% height=60% src="Semi-Supervised Generative Model Principle.png"/>  
 	
 	- Method  
-	<img width=60% height=60% src="Semi-Supervised Generative Model Step.png"/>  
+	<img width=60% height=60% src="Semi-Supervised Generative Model Step.png"/>
+	<br>
 	同样需要对 C2 做 Step 2 处理。
 
 - Low-density Separation
@@ -21,6 +22,7 @@
 	以神经网络为例，使用 hard label 对会影响结果，而使用 soft label 对结果则不会有影响。
 
 - Smoothness Assumption  
+<br>
 	<img width=60% height=60% src="Smoothness Assumption.png"/>  
 
 	- Cluster And Then Label  
