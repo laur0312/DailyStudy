@@ -27,9 +27,7 @@
 <br>	
 	- 解决方案  
 		使用多个Logistic回归单元，前面单元扮演特征转换的角色（将原先线性不可分的特征变换为线性可分的特征），后面单元扮演特征分类的角色。
-<br>
+<br>  
 	<p align="center">
 		<img width=60% height=60% src="Cascading Logistic Regression Models.png"/>
 	</p>
-	
-	
