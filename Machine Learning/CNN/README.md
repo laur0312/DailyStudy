@@ -6,7 +6,7 @@
 	<img width=60% height=60% src="The whole CNN.png"/>  
 </div>
 
-- Filters 高维卷积
+- Filters 高维卷积  
 	i 层输出为 n 维，则此时的卷积核维度也为 n，这里对应的就是高维卷积。
 <div align=center>
 	<img width=60% height=60% src="High Dimension Filters.png"/>  
