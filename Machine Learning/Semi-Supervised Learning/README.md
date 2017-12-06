@@ -1,7 +1,7 @@
 # Semi-Supervised Learning
 - For Generative Model
 	- Principle  
-	<img width=60% height=60% src="Semi-Supervised Generative Model Principle.png"/>  
+	<img align="center" width=60% height=60% src="Semi-Supervised Generative Model Principle.png"/>  
 	
 	- Method  
 	<img width=60% height=60% src="Semi-Supervised Generative Model Step.png"/>
@@ -25,6 +25,7 @@
 <br>
 	<img width=60% height=60% src="Smoothness Assumption.png"/>  
 
+<br>
 	- Cluster And Then Label  
 	先分类，然后统计某一分类中哪个种类的 labelled data 多，那么属于该分类的 unlabelled data 也属于该种类。  
 	<img width=60% height=60% src="Cluster And Then Label.png"/>  
