@@ -1,6 +1,9 @@
 # 深度学习入门
-- Batch Size  
-	<img width=60% height=60% src="Mini-batch.png"/>  
+- Batch Size
+<br>
+<p align="center">
+	<img width=60% height=60% src="Mini-batch.png"/>
+</p>
 	- Speed
 		- Smaller batch size means more updates in one epoch  
 		- Mini-batch 比随机梯度下降收敛快的原因  
@@ -8,6 +11,8 @@
 	- Performance
 		- Larger batch size can yield worse performance
 
-- Shuffle the training examples for each epoch  
+- Shuffle the training examples for each epoch
+<br>
+<p align="center">
 	<img width=60% height=60% src="Shuffle The Training Examples.png"/>
-	
+</p>

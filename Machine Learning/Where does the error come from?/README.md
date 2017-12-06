@@ -5,9 +5,9 @@
 简单 model，对应小的 bias；复杂 model，对应大的 bias。
 
 # 过拟合 & 欠拟合
-<div align=center>
+<p align="center">
 	<img width=60% height=60% src="Bias v.s. Variance.png"/>  
-</div>
+</p>
 Bias v.s. Variance 图中，横轴表示模型的复杂程度，纵轴表示Error。
 
 ## 过拟合
@@ -23,8 +23,8 @@ Bias v.s. Variance 图中，横轴表示模型的复杂程度，纵轴表示Erro
 重新设计模型：（1）增加更多的特征作为输入；（2）设计更加复杂的模型。
 
 # 使用Training Set
-<div align=center>
+<p align="center">
 	<img width=60% height=60% src="How to Use Training Set.png"/>  
-</div>
+</p>
 将训练集分成 *N* 份，针对每种情况下分别训练模型、计算误差，最终选取误平均误差最小的模型。
 

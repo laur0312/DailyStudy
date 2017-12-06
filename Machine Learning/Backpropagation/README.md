@@ -1,24 +1,24 @@
 # 反向传播
 - 梯度计算
 
-<div align=center>
+<p align="center">
 	<img width=60% height=60% src="Backpropagation.png"/>  
-</div>
+</p>
 
 - 正向传播
 
-<div align=center>
+<p align="center">
 	<img width=60% height=60% src="Backpropagation – Forward Pass.png"/>  
-</div>
+</p>
 
 - 反向传播
 
-<div align=center>
+<p align="center">
 	<img width=60% height=60% src="Backpropagation – Backward Pass.png"/>  
-</div>
+</p>
 
 - Summary  
 
-<div align=center>
+<p align="center">
 	<img width=60% height=60% src="Backpropagation – Summary.png"/>
-</div>
+</p>
