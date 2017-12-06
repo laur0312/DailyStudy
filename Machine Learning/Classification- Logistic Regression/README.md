@@ -18,16 +18,13 @@
 </p>
 
 - Logistic回归的局限性
-	- 问题描述
-<br>
+	- 问题描述  
 	Logistic回归的分类结果为线性。
 <br>
 <p align="center">
 	<img width=60% height=60% align=center src="Limitation of Logistic Regression.png"/>
 </p>
-	
 	- 解决方案
-<br>
 	使用多个Logistic回归单元，前面单元扮演特征转换的角色（将原先线性不可分的特征变换为线性可分的特征），后面单元扮演特征分类的角色。
 <br>
 <p align="center">
