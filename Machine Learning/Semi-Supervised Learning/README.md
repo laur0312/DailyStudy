@@ -1,7 +1,9 @@
 # Semi-Supervised Learning
 - For Generative Model
 	- Principle  
-	<img align="center" width=60% height=60% src="Semi-Supervised Generative Model Principle.png"/>  
+	<p align="center">
+		<img align="center" width=60% height=60% src="Semi-Supervised Generative Model Principle.png"/>
+	</p>
 	
 	- Method  
 	<img width=60% height=60% src="Semi-Supervised Generative Model Step.png"/>
