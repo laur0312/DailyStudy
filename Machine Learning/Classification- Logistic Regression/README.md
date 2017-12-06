@@ -1,7 +1,7 @@
 # 分类-Logistic回归
 - Logistic回归不采用 MSE 作为损失函数的原因：  
-	距离目标很远或很近都会使梯度为0。  
-<br>
+	距离目标很远或很近都会使梯度为0。
+	
 	<p align="center">
 		<img width=60% height=60% src="Why Logistic Regression Does Not Use Square Error As Loss.png"/>
 	</p>
@@ -12,7 +12,7 @@
 		- 训练数据很少
 		- 训练数据噪声多
 		- 先验概率和分类可以从不同源计算获得，如：语音识别
-<br>
+
 	<p align="center"> 
 		<img width=60% height=60% src="Generative v.s. Discriminative.png"/>
 	</p>
