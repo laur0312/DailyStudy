@@ -1,6 +1,5 @@
 # 分类-Logistic回归
 - Logistic回归不采用 MSE 作为损失函数的原因：  
-<br>
 	距离目标很远或很近都会使梯度为0。  
 <br>
 <p align="center">
