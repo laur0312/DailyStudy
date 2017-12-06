@@ -1,10 +1,11 @@
 # 卷积神经网络
 - Why CNN for Image
-	- Property 1 和 2 可理解为权值共享
-	- Property 3 对应池化层（可选）
 <div align=center>
 	<img width=60% height=60% src="The whole CNN.png"/>  
-</div>  	
+</div>  
+
+	* Property 1 和 2 可理解为权值共享
+	* Property 3 对应池化层（可选）
 
 - Filters 高维卷积
 <div align=center>
