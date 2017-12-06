@@ -2,8 +2,8 @@
 - Why CNN for Image
 <div align=center>
 	<img width=60% height=60% src="The whole CNN.png"/>  
-</div>
-<br>
+</div>  
+
 	- Property 1 和 2 可理解为权值共享
 	- Property 3 对应池化层（可选）
 
