@@ -1,6 +1,5 @@
 # 卷积神经网络
 - Why CNN for Image
-<br>
 <p align="center">
 	<img width=60% height=60% src="The whole CNN.png"/>
 </p>
@@ -9,7 +8,6 @@
 	- Property 3 对应池化层（可选）
 
 - Filters 高维卷积
-<br>
 <p align="center"> 
 	<img width=60% height=60% src="High Dimension Filters.png"/>
 </p>
