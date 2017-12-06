@@ -1,6 +1,6 @@
 # 分类-Logistic回归
 - Logistic回归不采用 MSE 作为损失函数的原因：  
-	距离目标很远或很近都会使梯度为0。
+	距离目标很远或很近都会使梯度为0。  
 	<img width=60% height=60% src="Why Logistic Regression Does Not Use Square Error As Loss.png"/>  
 
 - 生成模型和判别模型对比  
@@ -8,7 +8,7 @@
 	- 一般而言，判别模型表现优于生成模型；但是，在下述情况下生成模型则表现更好：  
 		- 训练数据很少
 		- 训练数据噪声多
-		- 先验概率和分类可以从不同源计算获得，如：语音识别
+		- 先验概率和分类可以从不同源计算获得，如：语音识别  
 	<img width=60% height=60% src="Generative v.s. Discriminative.png"/>  
 
 - Logistic回归的局限性
