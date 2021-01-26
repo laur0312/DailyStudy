@@ -1,3 +1,30 @@
+---
+typora-root-url: ..\img_pytorch
+---
+
+## [加速 PyTorch 模型训练的 9 个技巧](https://mp.weixin.qq.com/s/mHm8b_tftwvGDmG91KQoxA)
+
+1. 使用DataLoaders
+2. DataLoaders中的workers数量
+3. Batch Size
+4. 梯度累计（模拟Batch Size）
+5. 保留的计算图
+6. 移动到单个GPU
+7. 16-bit混合精读训练
+8. 移动到多个GPUs中（模型复制）
+9. 移动到多个GPU-nodes中
+10. 思考模型加速的技巧
+
+
+
+## [核心开发者全面解读PyTorch内部机制](https://mp.weixin.qq.com/s/jEBn1__kt4njJR28Uhi_rw)   [英文](http://blog.ezyang.com/2019/05/pytorch-internals/)
+
+<p align="center">
+	<img width=80% src="Tensorwebp.webp"/>  
+</p>
+
+
+
 ## [Horovod](https://github.com/horovod/horovod)
 
 ```python
@@ -39,21 +66,4 @@ with tf.train.MonitoredTrainingSession(checkpoint_dir=checkpoint_dir,
     # Perform synchronous training.
     mon_sess.run(train_op)
 ```
-
-
-
-
-
-<p align="center">
-	<img width=80% height=80% src="Context-Aware RoI Pooling.png"/>  
-</p>
-
-<p align="center">
-	<img width=100% height=100% src="A Scale-Insensitive Convolutional Neural Network for Fast Vehicle Detection.png"/>  
-</p>
-
-1. 
-
-
-
 
