@@ -62,3 +62,8 @@ typora-root-url: ..\img_news
 	<img width=80% height=80% src="Federated Learning Architecture.jpg"/>  
 </p>
 
+## 显卡信息
+
+<p align="center">
+	<img width=100% src="显卡参数对比.png"/>  
+</p>
